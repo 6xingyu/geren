@@ -1,0 +1,11 @@
+{
+
+"ver":1.0,
+
+"link":"https://qmywl.lanzout.com/iR4Io0ghlx9c",
+
+"rw":"http://103.45.65.40/rw/medt/",
+
+"log":"软件未发现更新"
+
+}
